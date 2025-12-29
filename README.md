@@ -198,7 +198,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [HiveMQtt](https://github.com/hivemq/hivemq-mqtt-client-dotnet) - MQTT 5.0 compliant secure client with automatic back pressure management and TCP & WebSocket transport support.
 - [MQTTnet](https://github.com/chkr1011/MQTTnet) - MQTT client and broker .NET implementations.
 
-### Delphi
+### Delphi
 
 - [delphi-mqtt](https://github.com/pjde/delphi-mqtt) - MQTT server and client components.
 - [TMQTTClient](https://github.com/jamiei/Delphi-TMQTT2) - MQTT Client Library for Delphi. Alpha and long term unmaintained.
